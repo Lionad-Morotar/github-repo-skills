@@ -1,9 +1,6 @@
 ---
 name: repo-tokens-count
-description: |
-  为 GitHub 项目添加 token count badge，自动计算代码库的 token 数量并生成可视化 SVG badge。
-  当用户需要：展示项目代码规模、添加 token 统计 badge、衡量代码库对 LLM 上下文窗口的占用比例时触发。
-  适用于任何希望展示代码库规模的 GitHub 项目，支持自定义文件匹配模式、上下文窗口大小和 badge 样式。
+description: 为 GitHub 项目添加 token count badge，显示代码库规模及其占 LLM 上下文窗口的比例。当用户需要展示代码规模、添加 token 统计 badge 时触发。
 ---
 
 # Repo Tokens Count Skill
