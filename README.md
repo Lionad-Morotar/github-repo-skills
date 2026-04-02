@@ -23,7 +23,7 @@ GitHub 仓库增强技能集合，为 Claude Code 提供便捷的仓库管理功
 ## 安装
 
 ```bash
-npx skills add https://github.com/Lionad-Morotar/github-repo-skills
+npx skills add -g https://github.com/Lionad-Morotar/github-repo-skills
 ```
 
 ## 命名规范
