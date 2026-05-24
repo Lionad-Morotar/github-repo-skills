@@ -1,6 +1,7 @@
 ---
 name: repo-tokens-count
 description: 为 GitHub 项目添加 token count badge，显示代码库规模及其占 LLM 上下文窗口的比例。当用户需要展示代码规模、添加 token 统计 badge 时触发。
+disable-model-invocation: true
 ---
 
 # Repo Tokens Count Skill
